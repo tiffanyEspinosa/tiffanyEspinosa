@@ -2,6 +2,8 @@
 
 <h2>Data Analysis Projects:</h2>
 
+- [Google Data Analytics Capstone (R, Tableau, Excel)](https://github.com/tiffanyEspinosa/Google_Data_Analytics_Capstone)
+
 <h2>View My Most Recent Resume:</h2>
 
 <h2>Certifications:</h2>
