@@ -6,6 +6,7 @@
 
 <h2>View My Most Recent Resume:</h2>
 
+- [Resume](https://github.com/tiffanyEspinosa/Resume)
 <h2>Certifications:</h2>
 
 - [Google Data Analytics](https://github.com/tiffanyEspinosa/tiffanyEspinosa/assets/133139483/bf0125ba-6959-40a7-a170-d1f0f652089f)
