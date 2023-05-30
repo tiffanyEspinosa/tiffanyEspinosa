@@ -15,4 +15,4 @@
 
 [<img align="left" alt="TiffanyEspinosa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/tiffany-mueller-3010371b7/
+[linkedin]: https://www.linkedin.com/in/tiffany-espinosa-a19a56278/
