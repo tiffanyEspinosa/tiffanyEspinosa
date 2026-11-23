@@ -1,12 +1,10 @@
-<h1>Hi, I'm Tiffany!</h1>
+# Hi, I'm Tiffany!
+
+I work at Cochise College's Institutional Research department as a Senior Research Analyst. As part of my role, I make many dashboards! Here's a [link to one of the public ones!](https://public.tableau.com/app/profile/cochise.college/viz/CochiseCollegeFall2025DataDashboard/EnrollmentGraduationandRetentionStory)
 
 <h2>Undergraduate Data Science in Psychology Research</h2>
   
 - [Classification of Anxiety vs. Depression on Social Media using Neural Network Models](https://github.com/tiffanyEspinosa/Undergraduate_Data_Science_in_Psychology_Research/tree/main)
-
-<h2>Data Analysis Projects:</h2>
-
-- [Google Data Analytics Capstone (R, Tableau, Excel)](https://github.com/tiffanyEspinosa/Google_Data_Analytics_Capstone)
 
 <h2>View My Most Recent Resume:</h2>
 
